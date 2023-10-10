@@ -1,0 +1,11 @@
+{
+  "name": "@types/bracket-builder",
+  "version": "1.0.0",
+  "description": "TypeScript type definitions for bracket-builder",
+  "license": "MIT",
+  "main": "",
+  "types": "./index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  }
+}
